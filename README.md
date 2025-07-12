@@ -1,6 +1,6 @@
 ## Hi! I am Shray Gandhi 👋
 # 💫 About Me:
-🛰 I’m currently working on: Face clustering<br><br>👥 I’m looking to collaborate on: AI and ML Python projects<br><br>🤝 I aspire to be an Software engineer.<br><br>🌱 I’m currently learning: Advanced machine learning techniques
+🛰 I’m currently working on: Face clustering<br><br>👥 I’m looking to collaborate on: AI and ML Python projects<br><br>🤝 I aspire to be an engineer.<br><br>🌱 I’m currently learning: Advanced machine learning techniques
 
 
 ## 🌐 Socials:
